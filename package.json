@@ -21,9 +21,11 @@
   },
   "dependencies": {
     "@nestjs/common": "^9.0.0",
+    "@nestjs/config": "^2.3.1",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
     "@nestjs/schedule": "^2.1.0",
+    "@octokit/core": "^4.2.0",
     "@types/cron": "^2.0.0",
     "axios": "^1.2.3",
     "form-data": "^4.0.0",
